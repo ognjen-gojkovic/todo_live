@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  class="sc-hKMtZM bxWXOJ"
+>
+  <canvas
+    height="768"
+    id="canvas"
+    width="1034"
+  />
+  <div
+    class="sc-dkzDqf jYIucv"
+  >
+    <div
+      class="filter__wrapper"
+    >
+      <div
+        class="sc-gsnTZi fxPONL"
+      >
+        <form>
+          <input
+            autocomplete="off"
+            id="todo"
+            name="todo"
+            type="text"
+            value=""
+          />
+          <label
+            class="label"
+            for="todo"
+          >
+            Enter Todo
+          </label>
+          <button
+            disabled=""
+            type="submit"
+          >
+            Add
+          </button>
+        </form>
+      </div>
+      <ul
+        class="sc-bczRLJ bGHBls"
+      />
+    </div>
+  </div>
+</div>
+`;
