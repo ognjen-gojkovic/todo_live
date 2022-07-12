@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/todo_live/static/js/main.ee65db58.js",
+    "index.html": "/todo_live/index.html",
+    "main.ee65db58.js.map": "/todo_live/static/js/main.ee65db58.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee65db58.js"
+  ]
+}
