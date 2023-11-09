@@ -122,8 +122,8 @@ const AppStyled = styled.div`
   canvas {
     background: linear-gradient(
       135deg,
-      var(--border) 0% 10%,
-      var(--background) 40%,
+      var(--border) 0% 20%,
+      var(--background) 45%,
       var(--contentBg) 100%
     );
   }

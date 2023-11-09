@@ -3,9 +3,9 @@ import { createGlobalStyle, css } from "styled-components";
 const ResetCSS = css`
   // variables
   :root {
-    --background: #14004b;
+    --background: #1e075d;
     --border: #0f0038;
-    --contentBg: #22017c;
+    --contentBg: #3400c3;
     --font: #eaee02;
   }
 
